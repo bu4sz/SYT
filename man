@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "das ist ein FAKE"
+
